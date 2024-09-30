@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ikram Ayoub</h1>
-<h3 align="center">A passionate frontend developer from Tunisia</h3>
+<h3 align="center">A passionate fullstack developer from Tunisia</h3>
 
 - 🌱 I’m currently learning **System Information Development**
 - 🎓 I hold a Bachelor's degree in Information Technology with a specialization in Information Systems Development.
