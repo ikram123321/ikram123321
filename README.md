@@ -121,9 +121,15 @@ Alongside software development, I work on the **digital growth side of websites*
 
 ## 🚀 Current Project
 
-<div align="center">
+<table>
+<tr>
+<td width="38%" valign="middle" align="center">
 
-<img src="https://camo.githubusercontent.com/c15edf4081abd639a73dc18c9d14c882ee774adaabc085e7b5cc0b2d45d90e38/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6d4e77724268656a6b4b394546503530342f67697068792e676966" width="350"/>
+<img src="https://camo.githubusercontent.com/c15edf4081abd639a73dc18c9d14c882ee774adaabc085e7b5cc0b2d45d90e38/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6d4e77724268656a6b4b394546503530342f67697068792e676966" width="300"/>
+
+</td>
+
+<td width="62%" valign="top">
 
 ### Multi-Tenant CRM / SaaS Platform
 
@@ -139,17 +145,19 @@ Building a complete business platform from **architecture to deployment**.
 
 <br><br>
 
-🔐 Authentication  
-🏢 Multi-Tenancy  
-🌐 Subdomains  
-💳 Subscriptions  
+🔐 **Authentication**  
+🏢 **Multi-Tenancy**  
+🌐 **Subdomain-Based Access**  
+💳 **Subscriptions**  
 
-👥 Organizations  
-⚡ REST APIs  
-🔒 Data Isolation  
-☁️ Deployment
+👥 **Organizations**  
+⚡ **REST APIs**  
+🔒 **Data Isolation**  
+☁️ **Cloud Deployment**
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
