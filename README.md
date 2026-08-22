@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════ -->
+
 <!-- HERO -->
+
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=IKRAM%20AYOUB&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20SAAS%20%E2%80%A2%20SEO%20%E2%80%A2%20DIGITAL%20MARKETING&descAlignY=62&descSize=15&descColor=FDF6F0&color=0:171315,40:5B424A,70:8E6670,88:D4AF37,100:F7CAC9"/>
@@ -38,13 +40,13 @@
 
 I build **modern, scalable web applications and SaaS platforms**, working across frontend, backend, databases, APIs and deployment.
 
-I'm currently working on a **multi-tenant CRM / SaaS platform with subscriptions**, using:
+Currently working on a **multi-tenant CRM / SaaS platform with subscriptions**, using:
 
 `FastAPI` · `Next.js` · `Supabase` · `PostgreSQL` · `Render`
 
-Alongside software development, I work on the **digital growth side of websites**:
+I also work on **website growth and management**, including:
 
-`SEO` · `Blog Creation` · `Content Writing` · `Digital Marketing` · `E-Commerce` · `Website Management`
+`SEO` · `Content` · `Digital Marketing` · `E-Commerce` · `Website Management`
 
 <div align="center">
 
@@ -70,25 +72,19 @@ Building responsive and scalable applications.
 
 ### 🏢 SaaS & CRM
 
-Building business platforms with:
-
 **Multi-Tenancy · Authentication · Subscriptions · Organizations · REST APIs · Data Isolation**
 
 <br>
 
-### 📈 SEO & Digital Marketing
+### 📈 SEO & Digital Growth
 
-Helping websites become more visible and valuable online.
-
-**On-Page SEO · Keyword Optimization · Product SEO · Technical SEO · Content Strategy**
+**Technical SEO · On-Page SEO · Keyword Optimization · Content Strategy · Product SEO**
 
 <br>
 
-### ✍️ Content Creation
+### ✍️ Content & Website Management
 
-Creating content designed for both **users and search engines**.
-
-**SEO Blog Articles · Website Content · Product Descriptions · Blog Management · Content Optimization**
+**SEO Articles · Website Content · Product Descriptions · Blog Management · E-Commerce**
 
 </div>
 
@@ -142,15 +138,14 @@ Building a complete business platform from **architecture to deployment**.
 
 <br><br>
 
-🔐 Authentication  
-🏢 Multi-Tenancy  
-🌐 Subdomains  
-💳 Subscriptions  
-
-👥 Organizations  
-⚡ REST APIs  
-🔒 Data Isolation  
-☁️ Deployment
+🔐 Authentication & Authorization
+🌐 Subdomains & Workspaces
+💳 Subscriptions
+👥 Organizations & Users
+⚡ REST APIs
+🔒 Data Isolation
+📊 Business Dashboards
+☁️ Cloud Deployment
 
 </div>
 
@@ -164,23 +159,18 @@ Building a complete business platform from **architecture to deployment**.
 
 ### BUILD → OPTIMIZE → GROW
 
-<br>
-
-💻 **BUILD**
-
+**BUILD**
 Web Applications · APIs · SaaS · CRM
 
 ↓
 
-🔎 **OPTIMIZE**
-
-SEO · Performance · UX · Content
+**OPTIMIZE**
+Performance · UX · SEO · Content
 
 ↓
 
-📈 **GROW**
-
-Digital Marketing · Blogs · E-Commerce · Search Visibility
+**GROW**
+E-Commerce · Search Visibility · Digital Marketing
 
 </div>
 
@@ -191,25 +181,15 @@ Digital Marketing · Blogs · E-Commerce · Search Visibility
 <div align="center">
 
 🛍️ **Online Shop Management**
-
-&nbsp; • &nbsp;
-
+  •  
 🔎 **SEO Optimization**
-
-&nbsp; • &nbsp;
-
+  •  
 ✍️ **SEO Blog Creation**
-
-&nbsp; • &nbsp;
-
+  •  
 📦 **Product Content**
-
-&nbsp; • &nbsp;
-
+  •  
 📊 **Website Administration**
-
-&nbsp; • &nbsp;
-
+  •  
 🚀 **Website Optimization**
 
 </div>
@@ -260,11 +240,7 @@ ISET Mahdia · Tunisia
 
 <img src="https://camo.githubusercontent.com/31ddbfcef3f51d3149d4877a4dbc6791459b69b4475848f70fd87db1a305d0e2/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f716a715563674979526a736c322f67697068792e676966" width="300"/>
 
-## ✦ BUILD · OPTIMIZE · GROW ✦
-
-**Software Engineering · SaaS · SEO · Digital Marketing**
-
-<br>
+### ✦ BUILD · OPTIMIZE · GROW ✦
 
 <a href="https://www.linkedin.com/in/ikram-ayoub-370299228/">
 <img src="https://img.shields.io/badge/LET'S_CONNECT-D4AF37?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -279,3 +255,4 @@ ISET Mahdia · Tunisia
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:171315,40:5B424A,70:8E6670,88:D4AF37,100:F7CAC9"/>
 
 </div>
+
