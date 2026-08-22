@@ -175,6 +175,23 @@ FastAPI + Next.js + Supabase business platform with multi-tenancy, auth, and sub
 
 <br>
 
+## 📡 LIVE ACTIVITY FEED
+
+<div align="center">
+
+<a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?activity_type=all&user_id=YOUR-GITHUB-ID" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=YOUR-GITHUB-ID&image_size=4x7&color_scheme=dark">
+    <img alt="what I'm currently working on" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=YOUR-GITHUB-ID&image_size=4x7&color_scheme=light" width="657"/>
+  </picture>
+</a>
+
+<sub><i>powered by <a href="https://ossinsight.io">OSS Insight</a> — needs your numeric GitHub user ID, see setup notes below</i></sub>
+
+</div>
+
+<br>
+
 ## 📊 STATS SCREEN
 
 <div align="center">
