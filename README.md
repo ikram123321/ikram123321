@@ -67,7 +67,7 @@ Alongside software development, I work on the **digital growth side of websites*
 
 </td>
 
-<td width="50%" valign="top" style="border: none;">
+<td width="100%" valign="top" style="border: none;">
 
 ### ⚙️ Backend
 
@@ -79,7 +79,7 @@ Alongside software development, I work on the **digital growth side of websites*
 
 <tr>
 
-<td width="50%" valign="top" style="border: none;">
+<td width="100%" valign="top" style="border: none;">
 
 ### 💡 Languages
 
@@ -87,7 +87,7 @@ Alongside software development, I work on the **digital growth side of websites*
 
 </td>
 
-<td width="50%" valign="top" style="border: none;">
+<td width="100%" valign="top" style="border: none;">
 
 ### 🗄️ Database & Cloud
 
@@ -99,7 +99,7 @@ Alongside software development, I work on the **digital growth side of websites*
 
 <tr>
 
-<td width="50%" valign="top" style="border: none;">
+<td width="100%" valign="top" style="border: none;">
 
 ### 🛠️ Tools
 
@@ -107,7 +107,7 @@ Alongside software development, I work on the **digital growth side of websites*
 
 </td>
 
-<td width="50%" valign="top" style="border: none;">
+<td width="100%" valign="top" style="border: none;">
 
 ### ☁️ Deployment
 
