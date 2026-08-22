@@ -56,68 +56,23 @@ Alongside software development, I work on the **digital growth side of websites*
 
 ## ⚡ Technology Stack
 
-<table border="0" cellspacing="0" cellpadding="12">
-<tr>
-
-<td width="100%" valign="top" style="border: none;">
-
 ### 🎨 Frontend
-
 <img src="https://skillicons.dev/icons?i=nextjs,react,angular,vue,bootstrap&theme=dark"/>
 
-</td>
-
-<td width="100%" valign="top" style="border: none;">
-
 ### ⚙️ Backend
-
 <img src="https://skillicons.dev/icons?i=python,fastapi,spring,nodejs,express,dotnet&theme=dark"/>
 
-</td>
-
-</tr>
-
-<tr>
-
-<td width="100%" valign="top" style="border: none;">
-
-### 💡 Languages
-
+### 💡 Programming Languages
 <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,cs&theme=dark"/>
 
-</td>
-
-<td width="100%" valign="top" style="border: none;">
-
 ### 🗄️ Database & Cloud
-
 <img src="https://skillicons.dev/icons?i=postgresql,supabase,mysql,mongodb,firebase,render&theme=dark"/>
 
-</td>
-
-</tr>
-
-<tr>
-
-<td width="100%" valign="top" style="border: none;">
-
-### 🛠️ Tools
-
+### 🛠️ Development Tools
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark"/>
 
-</td>
-
-<td width="100%" valign="top" style="border: none;">
-
 ### ☁️ Deployment
-
 <img src="https://skillicons.dev/icons?i=render,supabase,github&theme=dark"/>
-
-</td>
-
-</tr>
-
-</table>
 
 ---
 
