@@ -1,8 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=IKRAM%20AYOUB&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20SAAS%20%E2%80%A2%20WEB%20GROWTH&descAlignY=62&descSize=15&descColor=FDF6F0&color=0:171315,40:5B424A,70:8E6670,88:D4AF37,100:F7CAC9"/>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- HERO -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=20&duration=2800&pause=800&color=D4AF37&center=true&vCenter=true&width=750&lines=Building+modern+web+applications;Creating+SaaS+%26+CRM+platforms;Designing+multi-tenant+architectures;Developing+secure+REST+APIs;Growing+websites+with+SEO+%26+content"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=IKRAM%20AYOUB&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20SAAS%20%E2%80%A2%20SEO%20%E2%80%A2%20DIGITAL%20MARKETING&descAlignY=62&descSize=15&descColor=FDF6F0&color=0:171315,40:5B424A,70:8E6670,88:D4AF37,100:F7CAC9"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=20&duration=2800&pause=800&color=D4AF37&center=true&vCenter=true&width=750&lines=Building+modern+web+applications;Creating+SaaS+%26+CRM+platforms;Developing+secure+REST+APIs;Working+with+Multi-Tenant+Architecture;Growing+websites+with+SEO+%26+Content"/>
+
+<br>
+
+<img src="https://camo.githubusercontent.com/38e41dfabdad680dbd9fa6b375e7e52f1a52a84d0b06918b23bef033689d3d6d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c384b36326954446b7a4758362f67697068792e676966" width="400"/>
 
 <br>
 
@@ -22,32 +30,67 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Full-Stack Developer** focused on building modern, scalable web applications and SaaS products.
+<div align="center">
 
-My work covers the complete development lifecycle:
+### Full-Stack Developer & Online Shop Administrator
 
-**Frontend → Backend → Database → APIs → Authentication → Deployment**
+</div>
 
-I also work on the growth side of websites through **SEO, content strategy, e-commerce, and website optimization**.
+I build **modern, scalable web applications and SaaS platforms**, working across frontend, backend, databases, APIs and deployment.
 
-### Current Focus
+I'm currently working on a **multi-tenant CRM / SaaS platform with subscriptions**, using:
 
-🚀 **Multi-Tenant CRM / SaaS Platform**
+`FastAPI` · `Next.js` · `Supabase` · `PostgreSQL` · `Render`
 
-`Next.js` · `FastAPI` · `Supabase` · `PostgreSQL` · `Render`
+Alongside software development, I work on the **digital growth side of websites**:
+
+`SEO` · `Blog Creation` · `Content Writing` · `Digital Marketing` · `E-Commerce` · `Website Management`
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="380"/>
+
+</div>
 
 ---
 
-## 🛠️ What I Build
+## ✦ What I Do
 
-| Area                   | Focus                                                              |
-| ---------------------- | ------------------------------------------------------------------ |
-| 💻 **Web Development** | Modern responsive applications, dashboards & business platforms    |
-| 🏢 **SaaS & CRM**      | Multi-tenancy, organizations, authentication, subscriptions & APIs |
-| 🔐 **Backend**         | REST APIs, authorization, data isolation & business logic          |
-| 🗄️ **Databases**      | PostgreSQL, Supabase, MySQL, MongoDB                               |
-| 📈 **Web Growth**      | Technical SEO, content strategy, on-page SEO & optimization        |
-| 🛒 **E-Commerce**      | Product content, website management & online shop optimization     |
+<div align="center">
+
+### 💻 Software Development
+
+Building responsive and scalable applications.
+
+`Next.js` `React` `Angular` `Vue.js`
+
+`FastAPI` `Spring Boot` `Node.js` `Express.js` `.NET`
+
+<br>
+
+### 🏢 SaaS & CRM
+
+Building business platforms with:
+
+**Multi-Tenancy · Authentication · Subscriptions · Organizations · REST APIs · Data Isolation**
+
+<br>
+
+### 📈 SEO & Digital Marketing
+
+Helping websites become more visible and valuable online.
+
+**On-Page SEO · Keyword Optimization · Product SEO · Technical SEO · Content Strategy**
+
+<br>
+
+### ✍️ Content Creation
+
+Creating content designed for both **users and search engines**.
+
+**SEO Blog Articles · Website Content · Product Descriptions · Blog Management · Content Optimization**
+
+</div>
 
 ---
 
@@ -61,9 +104,9 @@ I also work on the growth side of websites through **SEO, content strategy, e-co
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,spring,nodejs,express&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,spring,nodejs,express,dotnet&theme=dark"/>
 
-### Languages
+### Programming Languages
 
 <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,cs&theme=dark"/>
 
@@ -79,55 +122,105 @@ I also work on the growth side of websites through **SEO, content strategy, e-co
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Current Project
 
 <div align="center">
 
+<img src="https://camo.githubusercontent.com/c15edf4081abd639a73dc18c9d14c882ee774adaabc085e7b5cc0b2d45d90e38/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6d4e77724268656a6b4b394546503530342f67697068792e676966" width="350"/>
+
 ### Multi-Tenant CRM / SaaS Platform
 
-A business platform designed to support **multiple companies from a shared application architecture** while keeping each organization's data isolated.
+Building a complete business platform from **architecture to deployment**.
 
-**Architecture**
+<br>
 
-`Next.js` → `FastAPI` → `PostgreSQL / Supabase`
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=171315"/>
 
-**Core capabilities**
+<br><br>
 
-🔐 Authentication & Authorization
-🏢 Multi-Tenant Organizations
-🌐 Subdomain-Based Workspaces
-💳 Subscription Management
-👥 User & Organization Management
-⚡ REST API Architecture
-🔒 Data Isolation
-📊 Business Dashboards
-☁️ Cloud Deployment
+🔐 Authentication  
+🏢 Multi-Tenancy  
+🌐 Subdomains  
+💳 Subscriptions  
+
+👥 Organizations  
+⚡ REST APIs  
+🔒 Data Isolation  
+☁️ Deployment
 
 </div>
 
 ---
 
-## 📈 My Approach
+## 📈 Code × Digital Growth
 
 <div align="center">
 
+<img src="https://camo.githubusercontent.com/31ddbfcef3f51d3149d4877a4dbc6791459b69b4475848f70fd87db1a305d0e2/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f716a715563674979526a736c322f67697068792e676966" width="350"/>
+
 ### BUILD → OPTIMIZE → GROW
 
-**BUILD**
+<br>
+
+💻 **BUILD**
 
 Web Applications · APIs · SaaS · CRM
 
 ↓
 
-**OPTIMIZE**
+🔎 **OPTIMIZE**
 
-Performance · UX · SEO · Technical Architecture
+SEO · Performance · UX · Content
 
 ↓
 
-**GROW**
+📈 **GROW**
 
-Content · E-Commerce · Search Visibility · Digital Marketing
+Digital Marketing · Blogs · E-Commerce · Search Visibility
+
+</div>
+
+---
+
+## 🛒 E-Commerce & Website Management
+
+<div align="center">
+
+🛍️ **Online Shop Management**
+
+&nbsp; • &nbsp;
+
+🔎 **SEO Optimization**
+
+&nbsp; • &nbsp;
+
+✍️ **SEO Blog Creation**
+
+&nbsp; • &nbsp;
+
+📦 **Product Content**
+
+&nbsp; • &nbsp;
+
+📊 **Website Administration**
+
+&nbsp; • &nbsp;
+
+🚀 **Website Optimization**
+
+</div>
+
+---
+
+## 🐍 GitHub Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/iscpatricio92/iscpatricio92/main/resources/img/github-contribution-grid-snake.svg" width="90%"/>
 
 </div>
 
@@ -141,9 +234,9 @@ Content · E-Commerce · Search Visibility · Digital Marketing
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikram123321&layout=compact&hide_border=true&langs_count=7&title_color=D4AF37&text_color=FDF6F0&bg_color=171315"/>
 
-<br><br>
+<br>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ikram123321&bg_color=171315&color=FDF6F0&line=D4AF37&point=F7CAC9&area=true&hide_border=true"/>
+<img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=ikram123321&bg_color=171315&color=FDF6F0&line=D4AF37&point=F7CAC9&area=true&hide_border=true"/>
 
 </div>
 
@@ -153,7 +246,9 @@ Content · E-Commerce · Search Visibility · Digital Marketing
 
 <div align="center">
 
-**Bachelor's Degree — Information Systems Development**
+### Bachelor's Degree in Information Technology
+
+**Information Systems Development**
 
 ISET Mahdia · Tunisia
 
@@ -163,9 +258,11 @@ ISET Mahdia · Tunisia
 
 <div align="center">
 
-### ✦ BUILD · OPTIMIZE · GROW ✦
+<img src="https://camo.githubusercontent.com/31ddbfcef3f51d3149d4877a4dbc6791459b69b4475848f70fd87db1a305d0e2/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f716a715563674979526a736c322f67697068792e676966" width="300"/>
 
-**Software Engineering · SaaS · Web Growth**
+## ✦ BUILD · OPTIMIZE · GROW ✦
+
+**Software Engineering · SaaS · SEO · Digital Marketing**
 
 <br>
 
@@ -182,4 +279,3 @@ ISET Mahdia · Tunisia
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:171315,40:5B424A,70:8E6670,88:D4AF37,100:F7CAC9"/>
 
 </div>
-
