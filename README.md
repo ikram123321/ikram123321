@@ -10,6 +10,7 @@
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&labelColor=0D0D15"/>
 <img src="https://img.shields.io/badge/SERVER-TUNISIA_→_BOSNIA-00F0FF?style=for-the-badge&labelColor=0D0D15"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=VISITORS&color=7B2FF7&style=for-the-badge&labelColor=0D0D15"/>
 
 <br><br>
 
@@ -159,6 +160,21 @@ FastAPI + Next.js + Supabase business platform with multi-tenancy, auth, and sub
 
 <br>
 
+## 🐍 THE CONTRIBUTION SNAKE
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake-dark.svg">
+  <img alt="snake game eating contribution graph" src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake.svg">
+</picture>
+
+<sub><i>set up instructions below ⬇</i></sub>
+
+</div>
+
+<br>
+
 ## 📊 STATS SCREEN
 
 <div align="center">
@@ -169,6 +185,10 @@ FastAPI + Next.js + Supabase business platform with multi-tenancy, auth, and sub
 <br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=radical&hide_border=true&background=0D0D15"/>
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=radical&no-bg=true&row=1&column=6&margin-w=8"/>
 
 <sub><i>swap in your GitHub username to sync the stats screen</i></sub>
 
