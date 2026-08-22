@@ -1,104 +1,100 @@
 <div align="center">
 
-# 👋 Hi, I'm Ikram Ayoub
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3A3A3A,50:F7CAC9,100:D4AF37&height=220&section=header&text=Ikram%20Ayoub&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20SaaS%20%26%20CRM%20Developer&descAlignY=60&descSize=18&descColor=FFFFFF"/>
 
-### 💻 Full-Stack Developer | SaaS & CRM Developer
+# ✨ Hello, I'm Ikram
+
+### Full-Stack Developer · SaaS Builder · Problem Solver
 
 <p>
-I build <b>modern, scalable and production-ready web applications</b><br>
-with a focus on clean architecture, secure APIs and great user experiences.
+  <i>Turning ideas into modern, scalable and production-ready applications.</i>
 </p>
 
-<p>
+<br>
+
 <a href="https://www.linkedin.com/in/ikram-ayoub-370299228/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-3A3A3A?style=for-the-badge&logo=linkedin&logoColor=F7CAC9"/>
 </a>
+&nbsp;
 <a href="mailto:ayoubikram564@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact%20Me-3A3A3A?style=for-the-badge&logo=gmail&logoColor=F7CAC9"/>
 </a>
-</p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+<table>
+<tr>
+<td width="55%" valign="top">
 
-I'm a **Full-Stack Developer** specialized in building web applications from **frontend to backend and deployment**.
+## 👩‍💻 About Me
+
+I'm a **Full-Stack Developer** passionate about building modern web applications and SaaS products.
 
 🎓 Bachelor's Degree in **Information Technology – Information Systems Development**
 
 💼 Currently working as a **Full-Stack Developer & Online Shop Administrator**
 
-🏢 Currently building a **multi-tenant CRM/SaaS platform with subscriptions**
+🚀 Currently building a **multi-tenant CRM/SaaS platform with subscriptions**
 
-🌍 Working with modern technologies including **FastAPI, Next.js, Supabase, PostgreSQL and Render**
+🔐 Focused on **secure APIs, authentication, multi-tenancy and scalable architecture**
 
-🔐 Interested in **SaaS architecture, APIs, authentication, multi-tenancy and cloud deployment**
-
----
-
-## 💼 What I Build
-
-<table>
-<tr>
-
-<td width="50%" align="center">
-
-### 🏢 SaaS & CRM
-
-Building scalable business platforms with:
-
-**Multi-Tenancy**
-**Authentication & Authorization**
-**Subscriptions**
-**Organizations & Users**
-**REST APIs**
-**Secure Data Isolation**
+🌐 From frontend development to backend systems and deployment — I enjoy building the **complete product**.
 
 </td>
 
-<td width="50%" align="center">
+<td width="45%" valign="top">
 
-### 🌐 Full-Stack Applications
+## 💎 What I Do
 
-From idea to deployment:
+**🖥️ Full-Stack Development**
 
-**Frontend Development**
-**Backend APIs**
-**Database Design**
-**Authentication**
-**Cloud Deployment**
-**Performance & SEO**
+Modern frontend + powerful backend
+
+**🏢 SaaS Development**
+
+CRM, subscriptions & multi-tenancy
+
+**🔐 Backend & APIs**
+
+Secure REST APIs & authentication
+
+**☁️ Deployment**
+
+Cloud-based production applications
+
+**🛒 E-Commerce**
+
+Shop management, SEO & content
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-## ⚡ My Current Stack
-
 <div align="center">
 
-### Frontend
+## 🛠️ My Technology Stack
+
+### 🎨 Frontend
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,angular,vue,bootstrap" />
 
-### Backend
+### ⚙️ Backend
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,spring,nodejs,express,dotnet" />
 
-### Languages
+### 💡 Languages
 
 <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,cs" />
 
-### Database & Cloud
+### 🗄️ Database & Cloud
 
 <img src="https://skillicons.dev/icons?i=postgresql,supabase,mysql,mongodb,firebase,render" />
 
-### Tools
+### 🔧 Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 
@@ -106,17 +102,23 @@ From idea to deployment:
 
 ---
 
-## 🔥 Currently Building
-
 <div align="center">
+
+## 🚀 Featured Project
 
 ### 🏢 Multi-Tenant CRM / SaaS Platform
 
-**FastAPI · Next.js · Supabase · PostgreSQL · Render**
+<img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-Frontend-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-Database-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-Deployment-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
 
 </div>
 
-<table>
+<br>
+
+<table align="center">
 <tr>
 <td align="center">🔐<br><b>Authentication</b></td>
 <td align="center">🏢<br><b>Multi-Tenancy</b></td>
@@ -134,44 +136,81 @@ From idea to deployment:
 
 ---
 
-## 🧠 Development Focus
+## 🎯 Development Focus
 
-```text
-Frontend
-   ↓
-Next.js / React / Angular
-   ↓
-REST APIs
-   ↓
-FastAPI / Spring Boot / Node.js
-   ↓
-PostgreSQL / Supabase
-   ↓
-Authentication & Multi-Tenancy
-   ↓
-Cloud Deployment
-   ↓
+<table>
+<tr>
+<td align="center" width="20%">
+
+### 🎨
+
+**Frontend**
+
+Next.js
+React
+Angular
+
+</td>
+
+<td align="center" width="20%">
+
+### ⚙️
+
+**Backend**
+
+FastAPI
+Spring Boot
+Node.js
+
+</td>
+
+<td align="center" width="20%">
+
+### 🗄️
+
+**Data**
+
+PostgreSQL
+Supabase
+MongoDB
+
+</td>
+
+<td align="center" width="20%">
+
+### 🔐
+
+**Architecture**
+
+APIs
+Authentication
+Multi-Tenancy
+
+</td>
+
+<td align="center" width="20%">
+
+### ☁️
+
+**Cloud**
+
+Render
+Deployment
 Production
-```
+
+</td>
+</tr>
+</table>
 
 ---
-
-## 🎓 Education
-
-**Bachelor's Degree in Information Technology**
-*Information Systems Development*
-
-🎓 ISET Mahdia — Tunisia
-
----
-
-## 📊 GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ikramayoub&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+## 📈 GitHub
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikramayoub&layout=compact&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ikramayoub&show_icons=true&hide_border=true&title_color=D4AF37&icon_color=F7CAC9&text_color=3A3A3A&bg_color=FDF6F0" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikramayoub&layout=compact&hide_border=true&title_color=D4AF37&text_color=3A3A3A&bg_color=FDF6F0" height="170"/>
 
 </div>
 
@@ -179,20 +218,22 @@ Production
 
 <div align="center">
 
-## 🤝 Let's Connect
+## 🌸 Let's Connect
 
-I'm always interested in **Full-Stack Development, SaaS, CRM, Cloud Technologies and challenging software projects.**
+<p>
+<b>Interested in building something great?</b>
+</p>
 
 <a href="https://www.linkedin.com/in/ikram-ayoub-370299228/">
-<img src="https://img.shields.io/badge/LinkedIn-Ikram%20Ayoub-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Ikram%20Ayoub-D4AF37?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:ayoubikram564@gmail.com">
-<img src="https://img.shields.io/badge/Email-ayoubikram564%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-ayoubikram564%40gmail.com-F7CAC9?style=for-the-badge&logo=gmail&logoColor=3A3A3A"/>
 </a>
 
 <br><br>
 
-⭐ <b>Thanks for visiting my GitHub profile!</b>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3A3A3A,50:F7CAC9,100:D4AF37&height=120&section=footer"/>
 
 </div>
