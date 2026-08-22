@@ -1,155 +1,221 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:14151A,50:0E8F76,100:E2A33D&height=200&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:FF6B9D,50:FFD93D,100:4ECDC4&height=200&section=header&text=HEY,%20I'M%20IKRAM!&fontSize=46&fontColor=ffffff&fontAlignY=45&animation=twinkling"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2600&pause=800&color=9B5DE5&center=true&vCenter=true&width=560&lines=I+build+things+%F0%9F%92%BB;then+make+sure+people+find+them+%F0%9F%93%88;coffee-powered+%E2%98%95;probably+debugging+right+now+%F0%9F%90%9B" alt="typing"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&pause=1000&color=0E8F76&center=true&vCenter=true&width=500&lines=Ikram+Ayoub" alt="name"/>
-<br>
-<img src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=400&size=16&duration=2800&pause=900&color=E2A33D&center=true&vCenter=true&width=560&lines=Full-Stack+Developer;SaaS+%26+CRM+Architect;SEO+%2B+Digital+Marketing" alt="roles"/>
-
-<br>
-
-<a href="https://www.linkedin.com/in/ikram-ayoub-370299228/"><img src="https://img.shields.io/badge/LinkedIn-14151A?style=flat-square&logo=linkedin&logoColor=0E8F76"/></a>
-<a href="mailto:ayoubikram564@gmail.com"><img src="https://img.shields.io/badge/Email-14151A?style=flat-square&logo=gmail&logoColor=E2A33D"/></a>
-<img src="https://img.shields.io/badge/Tunisia_%F0%9F%87%B9%F0%9F%87%B3_→_Bosnia_%F0%9F%87%A7%F0%9F%87%A6-14151A?style=flat-square"/>
+<a href="https://www.linkedin.com/in/ikram-ayoub-370299228/"><img src="https://img.shields.io/badge/Let's_connect-FF6B9D?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:ayoubikram564@gmail.com"><img src="https://img.shields.io/badge/Say_hi-4ECDC4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
-<img width="100%" height="2" src="https://singlecolorimage.com/get/E2A33D/1000x2"/>
-
-### `> whoami`
-
-I build complete digital products, then help people find them. Currently building a **multi-tenant CRM / SaaS platform** while working as a Full-Stack Developer & Online Shop Administrator.
-
-B.Sc. Information Technology · Information Systems Development · ISET Mahdia, Tunisia
-
-<img width="100%" height="2" src="https://singlecolorimage.com/get/0E8F76/1000x2"/>
-
-### `> stack --list`
-
-<div align="center">
-
-**BUILD**
 <br>
-<img src="https://img.shields.io/badge/FastAPI-14151A?style=flat-square&logo=fastapi&logoColor=0E8F76"/>
-<img src="https://img.shields.io/badge/Next.js-14151A?style=flat-square&logo=next.js&logoColor=0E8F76"/>
-<img src="https://img.shields.io/badge/React-14151A?style=flat-square&logo=react&logoColor=0E8F76"/>
-<img src="https://img.shields.io/badge/Angular-14151A?style=flat-square&logo=angular&logoColor=0E8F76"/>
-<img src="https://img.shields.io/badge/Vue.js-14151A?style=flat-square&logo=vue.js&logoColor=0E8F76"/>
-<img src="https://img.shields.io/badge/Spring_Boot-14151A?style=flat-square&logo=spring&logoColor=0E8F76"/>
-<img src="https://img.shields.io/badge/Node.js-14151A?style=flat-square&logo=node.js&logoColor=0E8F76"/>
-<img src="https://img.shields.io/badge/.NET-14151A?style=flat-square&logo=dotnet&logoColor=0E8F76"/>
-<br><br>
-<img src="https://img.shields.io/badge/Python-14151A?style=flat-square&logo=python&logoColor=0E8F76"/>
-<img src="https://img.shields.io/badge/TypeScript-14151A?style=flat-square&logo=typescript&logoColor=0E8F76"/>
-<img src="https://img.shields.io/badge/Java-14151A?style=flat-square&logo=openjdk&logoColor=0E8F76"/>
-<img src="https://img.shields.io/badge/C%23-14151A?style=flat-square&logo=c-sharp&logoColor=0E8F76"/>
-<img src="https://img.shields.io/badge/PostgreSQL-14151A?style=flat-square&logo=postgresql&logoColor=0E8F76"/>
-<img src="https://img.shields.io/badge/Supabase-14151A?style=flat-square&logo=supabase&logoColor=0E8F76"/>
-<img src="https://img.shields.io/badge/MongoDB-14151A?style=flat-square&logo=mongodb&logoColor=0E8F76"/>
-<img src="https://img.shields.io/badge/Firebase-14151A?style=flat-square&logo=firebase&logoColor=0E8F76"/>
-<img src="https://img.shields.io/badge/Render-14151A?style=flat-square&logo=render&logoColor=0E8F76"/>
-<img src="https://img.shields.io/badge/Git-14151A?style=flat-square&logo=git&logoColor=0E8F76"/>
-<img src="https://img.shields.io/badge/GitHub-14151A?style=flat-square&logo=github&logoColor=0E8F76"/>
-<img src="https://img.shields.io/badge/Postman-14151A?style=flat-square&logo=postman&logoColor=0E8F76"/>
-<img src="https://img.shields.io/badge/VS_Code-14151A?style=flat-square&logo=visualstudiocode&logoColor=0E8F76"/>
 
-<br><br>
+## 🎈 A few quick facts about me
 
-**GROW**
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+🇹🇳➡️🇧🇦
 <br>
-<img src="https://img.shields.io/badge/Technical_SEO-14151A?style=flat-square&logoColor=E2A33D"/>
-<img src="https://img.shields.io/badge/On--Page_SEO-14151A?style=flat-square&logoColor=E2A33D"/>
-<img src="https://img.shields.io/badge/Keyword_Strategy-14151A?style=flat-square&logoColor=E2A33D"/>
-<img src="https://img.shields.io/badge/Content_Strategy-14151A?style=flat-square&logoColor=E2A33D"/>
-<img src="https://img.shields.io/badge/Blog_Writing-14151A?style=flat-square&logoColor=E2A33D"/>
-<img src="https://img.shields.io/badge/Product_Content-14151A?style=flat-square&logoColor=E2A33D"/>
-<img src="https://img.shields.io/badge/E--Commerce_Ops-14151A?style=flat-square&logoColor=E2A33D"/>
+**Tunisia → Bosnia**
+<br>
+<sub>plot twist in progress</sub>
 
-</div>
+</td>
+<td align="center" width="25%">
 
-<img width="100%" height="2" src="https://singlecolorimage.com/get/E2A33D/1000x2"/>
+💻
+<br>
+**Full-Stack Dev**
+<br>
+<sub>UI to database, no gaps</sub>
 
-### `> status --current`
+</td>
+<td align="center" width="25%">
 
-<table>
-<tr><td>
+🏗️
+<br>
+**Building a SaaS**
+<br>
+<sub>multi-tenant CRM, in progress</sub>
 
-**Multi-Tenant CRM / SaaS Platform** — a production-oriented business platform for multiple organizations, built to isolate tenant data, manage subscriptions, and scale without rewriting the foundation.
+</td>
+<td align="center" width="25%">
 
-`FastAPI` `Next.js` `Supabase` `PostgreSQL` `Render`
+📈
+<br>
+**SEO + Content**
+<br>
+<sub>so people actually find it</sub>
 
-| | |
-|---|---|
-| **01 · AUTH** | Secure access, authorization, session & user management |
-| **02 · TENANTS** | Organizations, tenant isolation, subdomain routing |
-| **03 · BILLING** | Plans, subscription logic, upgrade & downgrade paths |
-| **04 · API** | REST endpoints, database schema, core business logic |
-
-</td></tr>
+</td>
+</tr>
 </table>
 
-<img width="100%" height="2" src="https://singlecolorimage.com/get/0E8F76/1000x2"/>
-
-### `> featured --work`
-
-<details open>
-<summary><b>Multi-Tenant CRM / SaaS Platform</b></summary>
 <br>
 
-FastAPI + Next.js + Supabase business platform with multi-tenancy, authentication, and subscription billing.
+> 🎓 **Education:** B.Sc. Information Technology (Information Systems Development) — ISET Mahdia, Tunisia
+>
+> 💼 **Right now:** Full-Stack Developer & Online Shop Administrator — building by day, optimizing by... also day
 
-`FastAPI` `Next.js` `PostgreSQL`
-&nbsp;·&nbsp;
-<a href="#">Repo</a> · <a href="#">Live demo</a>
-
-</details>
-
-<details>
-<summary><b>Project Two</b></summary>
 <br>
 
-Replace with a short description of what it does and the problem it solves.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=0:FF6B9D,100:4ECDC4&height=2&section=header"/>
 
-`Tech` `Stack`
-&nbsp;·&nbsp;
-<a href="#">Repo</a> · <a href="#">Live demo</a>
-
-</details>
-
-<img width="100%" height="2" src="https://singlecolorimage.com/get/E2A33D/1000x2"/>
-
-### `> approach --steps=4`
-
-| `01` Discover | `02` Build | `03` Deploy | `04` Grow |
-|:---|:---|:---|:---|
-| Understand the business and the people using it | Design and develop the solution end to end | Test, optimize, and ship it to production | SEO, content, and optimization once it's live |
-
-<img width="100%" height="2" src="https://singlecolorimage.com/get/0E8F76/1000x2"/>
-
-### `> stats`
+## 🧰 What's in my toolbox
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&hide_border=true&theme=transparent&bg_color=00000000&title_color=0E8F76&icon_color=E2A33D&text_color=6B6B63"/>
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&title_color=0E8F76&text_color=6B6B63"/>
-
-<sub><i>Replace <code>YOUR-GITHUB-USERNAME</code> for these to render.</i></sub>
-
-</div>
-
-<img width="100%" height="2" src="https://singlecolorimage.com/get/E2A33D/1000x2"/>
-
-<div align="center">
-
-### *"Build it well. Make it useful. Help it grow."*
-
-<a href="https://www.linkedin.com/in/ikram-ayoub-370299228/"><img src="https://img.shields.io/badge/LinkedIn-14151A?style=flat-square&logo=linkedin&logoColor=0E8F76"/></a>
-<a href="mailto:ayoubikram564@gmail.com"><img src="https://img.shields.io/badge/Email-E2A33D?style=flat-square&logo=gmail&logoColor=14151A"/></a>
+<img src="https://img.shields.io/badge/-Next.js-FF6B9D?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/-React-4ECDC4?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Angular-FFD93D?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Vue.js-9B5DE5?style=for-the-badge&logo=vue.js&logoColor=white"/>
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E2A33D,50:0E8F76,100:14151A&height=120&section=footer"/>
+<img src="https://img.shields.io/badge/-FastAPI-4ECDC4?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Spring_Boot-FF6B9D?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Node.js-FFD93D?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/-.NET-9B5DE5?style=for-the-badge&logo=dotnet&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/-Python-FFD93D?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/-TypeScript-4ECDC4?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Java-FF6B9D?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/-C%23-9B5DE5?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/-PostgreSQL-9B5DE5?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Supabase-4ECDC4?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/-MongoDB-FF6B9D?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Firebase-FFD93D?style=for-the-badge&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Render-4ECDC4?style=for-the-badge&logo=render&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/-Git-FF6B9D?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/-GitHub-9B5DE5?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Postman-FFD93D?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/-VS_Code-4ECDC4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+</div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=0:4ECDC4,100:9B5DE5&height=2&section=header"/>
+
+## 🏗️ What I'm building right now
+
+<div align="center">
+
+### ✨ A multi-tenant CRM / SaaS platform ✨
+
+*because one company's problems are never enough — let's solve everyone's*
+
+<img src="https://img.shields.io/badge/FastAPI-4ECDC4?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-FF6B9D?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-9B5DE5?style=flat-square&logo=postgresql&logoColor=white"/>
+
+</div>
+<br>
+
+<table>
+<tr>
+<td align="center" width="25%">🔐<br><b>Auth</b><br><sub>keeping the bad guys out</sub></td>
+<td align="center" width="25%">🏢<br><b>Multi-tenancy</b><br><sub>everyone gets their own corner</sub></td>
+<td align="center" width="25%">💳<br><b>Subscriptions</b><br><sub>plans that actually make sense</sub></td>
+<td align="center" width="25%">⚡<br><b>APIs</b><br><sub>fast, clean, no drama</sub></td>
+</tr>
+</table>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=0:9B5DE5,100:FFD93D&height=2&section=header"/>
+
+## 🎨 Featured projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 Multi-Tenant CRM / SaaS Platform
+FastAPI + Next.js + Supabase business platform with multi-tenancy, auth, and subscription billing.
+
+`FastAPI` `Next.js` `PostgreSQL`
+
+[📂 Repo](#) · [🚀 Live demo](#)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 Project Two
+*Swap this out for your next favorite thing you built.*
+
+`Tech` `Stack`
+
+[📂 Repo](#) · [🚀 Live demo](#)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=0:FFD93D,100:FF6B9D&height=2&section=header"/>
+
+## 📈 Beyond the code
+
+<table align="center">
+<tr>
+<td align="center" width="33%">🔎<br><b>SEO</b><br><sub>on-page, technical, keyword strategy</sub></td>
+<td align="center" width="33%">✍️<br><b>Content</b><br><sub>blog posts, product copy, strategy</sub></td>
+<td align="center" width="33%">🛍️<br><b>Shop management</b><br><sub>daily ops, growth tweaks</sub></td>
+</tr>
+</table>
+
+<br>
+
+## 🌈 How I roll
+
+`💡 Discover` → `🏗️ Build` → `🚀 Deploy` → `📈 Grow` → *(repeat, ideally with coffee)*
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=0:FF6B9D,100:9B5DE5&height=2&section=header"/>
+
+## 📊 GitHub stats
+
+<div align="center">
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&hide_border=true&theme=vue-dark"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&hide_border=true&theme=vue-dark"/>
+
+<sub><i>swap in your GitHub username to make these come alive ✨</i></sub>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### *"Build it well. Make it useful. Help it grow." 🌱*
+
+<a href="https://www.linkedin.com/in/ikram-ayoub-370299228/"><img src="https://img.shields.io/badge/LinkedIn-FF6B9D?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:ayoubikram564@gmail.com"><img src="https://img.shields.io/badge/Email_me-4ECDC4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br><br>
+
+<sub>✨ thanks for scrolling all the way down here, you're the best ✨</sub>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4ECDC4,50:FFD93D,100:FF6B9D&height=150&section=footer"/>
 
 </div>
