@@ -53,27 +53,70 @@ Alongside software development, I work on the **digital growth side of websites*
 </div>
 
 ---
-
 ## ⚡ Technology Stack
 
+<table border="0" cellspacing="0" cellpadding="12">
+<tr>
+
+<td width="50%" valign="top" style="border: none;">
+
 ### 🎨 Frontend
+
 <img src="https://skillicons.dev/icons?i=nextjs,react,angular,vue,bootstrap&theme=dark"/>
 
+</td>
+
+<td width="50%" valign="top" style="border: none;">
+
 ### ⚙️ Backend
+
 <img src="https://skillicons.dev/icons?i=python,fastapi,spring,nodejs,express,dotnet&theme=dark"/>
 
-### 💡 Programming Languages
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top" style="border: none;">
+
+### 💡 Languages
+
 <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,cs&theme=dark"/>
 
+</td>
+
+<td width="50%" valign="top" style="border: none;">
+
 ### 🗄️ Database & Cloud
+
 <img src="https://skillicons.dev/icons?i=postgresql,supabase,mysql,mongodb,firebase,render&theme=dark"/>
 
-### 🛠️ Development Tools
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top" style="border: none;">
+
+### 🛠️ Tools
+
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark"/>
 
+</td>
+
+<td width="50%" valign="top" style="border: none;">
+
 ### ☁️ Deployment
+
 <img src="https://skillicons.dev/icons?i=render,supabase,github&theme=dark"/>
 
+</td>
+
+</tr>
+
+</table>
 ---
 
 ## 🚀 Current Project
@@ -105,66 +148,6 @@ Building a complete business platform from **architecture to deployment**.
 ⚡ REST APIs  
 🔒 Data Isolation  
 ☁️ Deployment
-
-</div>
-
----
-
-## 📈 Code × Digital Growth
-
-<div align="center">
-
-<img src="https://camo.githubusercontent.com/31ddbfcef3f51d3149d4877a4dbc6791459b69b4475848f70fd87db1a305d0e2/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f716a715563674979526a736c322f67697068792e676966" width="350"/>
-
-### BUILD → OPTIMIZE → GROW
-
-<br>
-
-💻 **BUILD**
-
-Web Applications · APIs · SaaS · CRM
-
-↓
-
-🔎 **OPTIMIZE**
-
-SEO · Performance · UX · Content
-
-↓
-
-📈 **GROW**
-
-Digital Marketing · Blogs · E-Commerce · Search Visibility
-
-</div>
-
----
-
-## 🛒 E-Commerce & Website Management
-
-<div align="center">
-
-🛍️ **Online Shop Management**
-
-&nbsp; • &nbsp;
-
-🔎 **SEO Optimization**
-
-&nbsp; • &nbsp;
-
-✍️ **SEO Blog Creation**
-
-&nbsp; • &nbsp;
-
-📦 **Product Content**
-
-&nbsp; • &nbsp;
-
-📊 **Website Administration**
-
-&nbsp; • &nbsp;
-
-🚀 **Website Optimization**
 
 </div>
 
