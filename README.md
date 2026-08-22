@@ -1,9 +1,7 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-
 <!-- HERO -->
-
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=IKRAM%20AYOUB&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20SAAS%20%E2%80%A2%20SEO%20%E2%80%A2%20DIGITAL%20MARKETING&descAlignY=62&descSize=15&descColor=FDF6F0&color=0:171315,40:5B424A,70:8E6670,88:D4AF37,100:F7CAC9"/>
@@ -40,13 +38,13 @@
 
 I build **modern, scalable web applications and SaaS platforms**, working across frontend, backend, databases, APIs and deployment.
 
-Currently working on a **multi-tenant CRM / SaaS platform with subscriptions**, using:
+I'm currently working on a **multi-tenant CRM / SaaS platform with subscriptions**, using:
 
 `FastAPI` · `Next.js` · `Supabase` · `PostgreSQL` · `Render`
 
-I also work on **website growth and management**, including:
+Alongside software development, I work on the **digital growth side of websites**:
 
-`SEO` · `Content` · `Digital Marketing` · `E-Commerce` · `Website Management`
+`SEO` · `Blog Creation` · `Content Writing` · `Digital Marketing` · `E-Commerce` · `Website Management`
 
 <div align="center">
 
@@ -54,7 +52,73 @@ I also work on **website growth and management**, including:
 
 </div>
 
+---
+## ⚡ Technology Stack
 
+<table border="0" cellspacing="0" cellpadding="12">
+<tr>
+
+<td width="50%" valign="top" style="border: none;">
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,angular,vue,bootstrap&theme=dark"/>
+
+</td>
+
+<td width="50%" valign="top" style="border: none;">
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,spring,nodejs,express,dotnet&theme=dark"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top" style="border: none;">
+
+### 💡 Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,cs&theme=dark"/>
+
+</td>
+
+<td width="50%" valign="top" style="border: none;">
+
+### 🗄️ Database & Cloud
+
+<img src="https://skillicons.dev/icons?i=postgresql,supabase,mysql,mongodb,firebase,render&theme=dark"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top" style="border: none;">
+
+### 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark"/>
+
+</td>
+
+<td width="50%" valign="top" style="border: none;">
+
+### ☁️ Deployment
+
+<img src="https://skillicons.dev/icons?i=render,supabase,github&theme=dark"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
 
 ## 🚀 Current Project
 
@@ -76,14 +140,15 @@ Building a complete business platform from **architecture to deployment**.
 
 <br><br>
 
-🔐 Authentication & Authorization
-🌐 Subdomains & Workspaces
-💳 Subscriptions
-👥 Organizations & Users
-⚡ REST APIs
-🔒 Data Isolation
-📊 Business Dashboards
-☁️ Cloud Deployment
+🔐 Authentication  
+🏢 Multi-Tenancy  
+🌐 Subdomains  
+💳 Subscriptions  
+
+👥 Organizations  
+⚡ REST APIs  
+🔒 Data Isolation  
+☁️ Deployment
 
 </div>
 
@@ -97,18 +162,23 @@ Building a complete business platform from **architecture to deployment**.
 
 ### BUILD → OPTIMIZE → GROW
 
-**BUILD**
+<br>
+
+💻 **BUILD**
+
 Web Applications · APIs · SaaS · CRM
 
 ↓
 
-**OPTIMIZE**
-Performance · UX · SEO · Content
+🔎 **OPTIMIZE**
+
+SEO · Performance · UX · Content
 
 ↓
 
-**GROW**
-E-Commerce · Search Visibility · Digital Marketing
+📈 **GROW**
+
+Digital Marketing · Blogs · E-Commerce · Search Visibility
 
 </div>
 
@@ -119,15 +189,25 @@ E-Commerce · Search Visibility · Digital Marketing
 <div align="center">
 
 🛍️ **Online Shop Management**
-  •  
+
+&nbsp; • &nbsp;
+
 🔎 **SEO Optimization**
-  •  
+
+&nbsp; • &nbsp;
+
 ✍️ **SEO Blog Creation**
-  •  
+
+&nbsp; • &nbsp;
+
 📦 **Product Content**
-  •  
+
+&nbsp; • &nbsp;
+
 📊 **Website Administration**
-  •  
+
+&nbsp; • &nbsp;
+
 🚀 **Website Optimization**
 
 </div>
@@ -176,9 +256,13 @@ ISET Mahdia · Tunisia
 
 <div align="center">
 
+<img src="https://camo.githubusercontent.com/31ddbfcef3f51d3149d4877a4dbc6791459b69b4475848f70fd87db1a305d0e2/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f716a715563674979526a736c322f67697068792e676966" width="300"/>
 
+## ✦ BUILD · OPTIMIZE · GROW ✦
 
-### ✦ BUILD · OPTIMIZE · GROW ✦
+**Software Engineering · SaaS · SEO · Digital Marketing**
+
+<br>
 
 <a href="https://www.linkedin.com/in/ikram-ayoub-370299228/">
 <img src="https://img.shields.io/badge/LET'S_CONNECT-D4AF37?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -193,4 +277,3 @@ ISET Mahdia · Tunisia
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:171315,40:5B424A,70:8E6670,88:D4AF37,100:F7CAC9"/>
 
 </div>
-
