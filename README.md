@@ -54,69 +54,7 @@ I also work on **website growth and management**, including:
 
 </div>
 
----
 
-## ✦ What I Do
-
-<div align="center">
-
-### 💻 Software Development
-
-Building responsive and scalable applications.
-
-`Next.js` `React` `Angular` `Vue.js`
-
-`FastAPI` `Spring Boot` `Node.js` `Express.js` `.NET`
-
-<br>
-
-### 🏢 SaaS & CRM
-
-**Multi-Tenancy · Authentication · Subscriptions · Organizations · REST APIs · Data Isolation**
-
-<br>
-
-### 📈 SEO & Digital Growth
-
-**Technical SEO · On-Page SEO · Keyword Optimization · Content Strategy · Product SEO**
-
-<br>
-
-### ✍️ Content & Website Management
-
-**SEO Articles · Website Content · Product Descriptions · Blog Management · E-Commerce**
-
-</div>
-
----
-
-## ⚡ Technology Stack
-
-<div align="center">
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,angular,vue,bootstrap&theme=dark"/>
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,spring,nodejs,express,dotnet&theme=dark"/>
-
-### Programming Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,cs&theme=dark"/>
-
-### Database & Cloud
-
-<img src="https://skillicons.dev/icons?i=postgresql,supabase,mysql,mongodb,firebase,render&theme=dark"/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark"/>
-
-</div>
-
----
 
 ## 🚀 Current Project
 
@@ -238,7 +176,7 @@ ISET Mahdia · Tunisia
 
 <div align="center">
 
-<img src="https://camo.githubusercontent.com/31ddbfcef3f51d3149d4877a4dbc6791459b69b4475848f70fd87db1a305d0e2/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f716a715563674979526a736c322f67697068792e676966" width="300"/>
+
 
 ### ✦ BUILD · OPTIMIZE · GROW ✦
 
