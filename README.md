@@ -53,47 +53,13 @@ Alongside software development, I work on the **digital growth side of websites*
 </div>
 
 ---
-## ⚡ Technology Stack
-
-<div align="left">
-
-### 🎨 Frontend
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,angular,vue,bootstrap&theme=dark"/>
-
-<br><br>
-
-### ⚙️ Backend
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,spring,nodejs,express,dotnet&theme=dark"/>
-
-<br><br>
-
-### 💡 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,cs&theme=dark"/>
-
-<br><br>
-
-### 🗄️ Database & Cloud
-
-<img src="https://skillicons.dev/icons?i=postgresql,supabase,mysql,mongodb,firebase,render&theme=dark"/>
-
-<br><br>
-
-### 🛠️ Development Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark"/>
-
-</div>
-
 
 ## ⚡ Technology Stack
 
 <table border="0" cellspacing="0" cellpadding="12">
 <tr>
 
-<td width="50%" valign="top" style="border: none;">
+<td width="100%" valign="top" style="border: none;">
 
 ### 🎨 Frontend
 
