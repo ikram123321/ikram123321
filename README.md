@@ -121,7 +121,7 @@ Alongside software development, I work on the **digital growth side of websites*
 
 ## 🚀 Current Project
 
-<table border="0">
+<table border="0" >
 <tr>
 
 <td width="50%" valign="top">
