@@ -83,7 +83,7 @@ SEO, blogs, content and website optimization for online visibility.
 🎓 **Education**
 
 Bachelor's Degree in Information Technology
-*Information Systems Development*
+*Information Systems Development* · ISET Mahdia, Tunisia
 
 <br>
 
@@ -125,105 +125,6 @@ SaaS Architecture · Cloud Deployment · APIs · Multi-Tenancy
 | ✍️ **Content**     | SEO Blog Writing        |
 | 🛒 **E-Commerce**  | Shop Management         |
 | ☁️ **Cloud**       | Deployment & Hosting    |
-
-</td>
-
-</tr>
-</table>
-
----
-
-<div align="center">
-
-# ✦ WHAT I DO ✦
-
-</div>
-
-<table>
-<tr>
-
-<td width="25%" align="center">
-
-<h2>01</h2>
-
-## 💻
-
-### DEVELOPMENT
-
-━━━━━━━━━━━━
-
-**Frontend**
-
-Next.js
-React
-Angular
-Vue
-
-**Backend**
-
-FastAPI
-Spring Boot
-Node.js
-Express
-
-</td>
-
-<td width="25%" align="center">
-
-<h2>02</h2>
-
-## 🏢
-
-### SAAS
-
-━━━━━━━━━━━━
-
-Multi-Tenancy
-Authentication
-Authorization
-Subscriptions
-Organizations
-REST APIs
-Data Isolation
-
-</td>
-
-<td width="25%" align="center">
-
-<h2>03</h2>
-
-## 📈
-
-### SEO
-
-━━━━━━━━━━━━
-
-Technical SEO
-On-Page SEO
-Keywords
-Meta Optimization
-Search Visibility
-Performance
-Product SEO
-
-</td>
-
-<td width="25%" align="center">
-
-<h2>04</h2>
-
-## ✍️
-
-### CONTENT
-
-━━━━━━━━━━━━
-
-SEO Blog Articles
-Website Content
-Product Content
-Content Strategy
-Blog Management
-Digital Marketing
 
 </td>
 
@@ -336,100 +237,80 @@ Business logic
 
 <div align="center">
 
-# 📈 DIGITAL MARKETING
+# 📌 FEATURED PROJECTS
 
-<p>
-<b>Technology builds the product. Marketing helps people discover it.</b>
-</p>
-
-</div>
+<p><i>Add your repos below — replace the placeholders with real links, descriptions, and tech badges.</i></p>
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-## 🔎 SEO
+### 🏢 Multi-Tenant CRM / SaaS Platform
+FastAPI + Next.js + Supabase business platform with multi-tenancy, authentication, and subscription billing.
 
-<table>
-<tr><td>✓</td><td>On-Page SEO</td></tr>
-<tr><td>✓</td><td>Keyword Optimization</td></tr>
-<tr><td>✓</td><td>Meta Titles & Descriptions</td></tr>
-<tr><td>✓</td><td>SEO-Friendly Structure</td></tr>
-<tr><td>✓</td><td>Content Optimization</td></tr>
-<tr><td>✓</td><td>Product SEO</td></tr>
-<tr><td>✓</td><td>Website Performance</td></tr>
-</table>
+`FastAPI` `Next.js` `PostgreSQL` `Supabase`
+
+<a href="#"><img src="https://img.shields.io/badge/Repo-171315?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Live_Demo-D4AF37?style=flat-square&logo=vercel&logoColor=white"/></a>
 
 </td>
 
 <td width="50%" valign="top">
 
-## ✍️ CONTENT & BLOGGING
+### 🛒 Project Two
+Short description of what it does and the problem it solves.
 
-<table>
-<tr><td>✓</td><td>SEO Blog Articles</td></tr>
-<tr><td>✓</td><td>Website Content</td></tr>
-<tr><td>✓</td><td>Product Descriptions</td></tr>
-<tr><td>✓</td><td>Content Planning</td></tr>
-<tr><td>✓</td><td>Blog Management</td></tr>
-<tr><td>✓</td><td>Digital Marketing</td></tr>
-<tr><td>✓</td><td>Audience-Focused Content</td></tr>
-</table>
+`Tech` `Stack` `Here`
+
+<a href="#"><img src="https://img.shields.io/badge/Repo-171315?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Live_Demo-D4AF37?style=flat-square&logo=vercel&logoColor=white"/></a>
 
 </td>
 
 </tr>
 </table>
+
+</div>
 
 ---
 
 <div align="center">
 
-# 🛒 E-COMMERCE
+# 📈 DIGITAL MARKETING & E-COMMERCE
 
-</div>
+<p>
+<b>Technology builds the product. Marketing helps people discover it.</b>
+</p>
 
-<table align="center">
+<table>
 <tr>
 
-<td align="center">
-<h2>🛍️</h2>
-<b>ONLINE SHOP</b>
-<br>
-Daily Management
-</td>
-
-<td align="center">
+<td width="33%" align="center">
 <h2>🔎</h2>
 <b>SEO</b>
 <br>
-Search Optimization
+On-page & technical SEO, keyword optimization, meta titles, site performance
 </td>
 
-<td align="center">
+<td width="33%" align="center">
 <h2>✍️</h2>
-<b>BLOG</b>
-<br>
-SEO Content
-</td>
-
-<td align="center">
-<h2>📊</h2>
 <b>CONTENT</b>
 <br>
-Website Management
+SEO blog articles, product content, content strategy & planning
 </td>
 
-<td align="center">
-<h2>🚀</h2>
-<b>GROWTH</b>
+<td width="33%" align="center">
+<h2>🛍️</h2>
+<b>SHOP MANAGEMENT</b>
 <br>
-Optimization
+Daily online store operations, product content, growth optimization
 </td>
 
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -493,13 +374,12 @@ SEO, content
 
 <div align="center">
 
-# 🎓 EDUCATION
+# 📊 GITHUB STATS
 
-### Bachelor's Degree in Information Technology
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&hide_border=true&theme=transparent&title_color=D4AF37&icon_color=8E6670&text_color=FDF6F0"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&hide_border=true&theme=transparent&title_color=D4AF37&text_color=FDF6F0"/>
 
-**Information Systems Development**
-
-🎓 **ISET Mahdia · Tunisia**
+<p><i>Replace <code>YOUR-GITHUB-USERNAME</code> with your actual GitHub handle for this to render.</i></p>
 
 </div>
 
