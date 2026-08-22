@@ -1,395 +1,162 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,27&height=280&section=header&text=IKRAM%20AYOUB&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%20%E2%80%A2%20SAAS%20%E2%80%A2%20SEO%20%E2%80%A2%20DIGITAL%20MARKETING&descAlignY=62&descSize=18&descColor=FFFFFF&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F17,50:1A1A2E,100:16161F&height=220&section=header"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ikram+%F0%9F%91%8B;Full-Stack+Developer;SaaS+%26+CRM+Builder;SEO+%2B+Content+Strategist" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=34&pause=1200&color=8B5CF6&center=true&vCenter=true&width=560&height=60&lines=Ikram+Ayoub" alt="name"/>
 
-<br><br>
-
-<p>
-<b>🚀 Building digital products that work beautifully and help businesses grow.</b>
-</p>
-
-<p>
-I combine <b>software development</b>, <b>SaaS architecture</b>,
-<b>SEO</b> and <b>content marketing</b> to create complete digital solutions.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=2800&pause=900&color=71717A&center=true&vCenter=true&width=560&lines=Full-Stack+Developer;SaaS+%26+CRM+Architect;SEO+%2B+Digital+Marketing" alt="roles"/>
 
 <br>
 
-<a href="https://www.linkedin.com/in/ikram-ayoub-370299228/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:ayoubikram564@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS)
+<a href="https://www.linkedin.com/in/ikram-ayoub-370299228/"><img src="https://img.shields.io/badge/LinkedIn-141414?style=flat-square&logo=linkedin&logoColor=8B5CF6"/></a>
+<a href="mailto:ayoubikram564@gmail.com"><img src="https://img.shields.io/badge/Email-141414?style=flat-square&logo=gmail&logoColor=8B5CF6"/></a>
+<img src="https://img.shields.io/badge/Tunisia_%F0%9F%87%B9%F0%9F%87%B3_→_Bosnia_%F0%9F%87%A7%F0%9F%87%A6-141414?style=flat-square&labelColor=141414&color=141414"/>
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
+<br>
 
-<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## ✦ PROFILE ✦
+## Overview
+
+I build complete digital products — from backend architecture to the marketing that gets them found. My work sits at the intersection of **software engineering**, **SaaS design**, and **growth** (SEO + content).
+
+Currently building a **multi-tenant CRM / SaaS platform** (FastAPI · Next.js · Supabase), while working as a Full-Stack Developer and Online Shop Administrator.
+
+<br>
+
+## Stack
+
+<div align="left">
+
+**Frontend**
+<br>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/React-141414?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Angular-141414?style=flat-square&logo=angular&logoColor=DD0031"/> <img src="https://img.shields.io/badge/Vue.js-141414?style=flat-square&logo=vue.js&logoColor=4FC08D"/> <img src="https://img.shields.io/badge/Bootstrap-141414?style=flat-square&logo=bootstrap&logoColor=8B5CF6"/>
+
+**Backend**
+<br>
+<img src="https://img.shields.io/badge/FastAPI-141414?style=flat-square&logo=fastapi&logoColor=009688"/> <img src="https://img.shields.io/badge/Spring_Boot-141414?style=flat-square&logo=spring&logoColor=6DB33F"/> <img src="https://img.shields.io/badge/Node.js-141414?style=flat-square&logo=node.js&logoColor=339933"/> <img src="https://img.shields.io/badge/Express-141414?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/.NET-141414?style=flat-square&logo=dotnet&logoColor=512BD4"/>
+
+**Languages**
+<br>
+<img src="https://img.shields.io/badge/Python-141414?style=flat-square&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/Java-141414?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-141414?style=flat-square&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/TypeScript-141414?style=flat-square&logo=typescript&logoColor=3178C6"/> <img src="https://img.shields.io/badge/C%23-141414?style=flat-square&logo=c-sharp&logoColor=8B5CF6"/>
+
+**Data & Cloud**
+<br>
+<img src="https://img.shields.io/badge/PostgreSQL-141414?style=flat-square&logo=postgresql&logoColor=4169E1"/> <img src="https://img.shields.io/badge/Supabase-141414?style=flat-square&logo=supabase&logoColor=3FCF8E"/> <img src="https://img.shields.io/badge/MongoDB-141414?style=flat-square&logo=mongodb&logoColor=47A248"/> <img src="https://img.shields.io/badge/Firebase-141414?style=flat-square&logo=firebase&logoColor=FFCA28"/> <img src="https://img.shields.io/badge/Render-141414?style=flat-square&logo=render&logoColor=46E3B7"/>
+
+**Tools**
+<br>
+<img src="https://img.shields.io/badge/Git-141414?style=flat-square&logo=git&logoColor=F05032"/> <img src="https://img.shields.io/badge/GitHub-141414?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-141414?style=flat-square&logo=postman&logoColor=FF6C37"/> <img src="https://img.shields.io/badge/VS_Code-141414?style=flat-square&logo=visualstudiocode&logoColor=007ACC"/>
+
+</div>
+
+<br>
+
+## What I focus on
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="25%" valign="top">
 
-<img src="https://img.shields.io/badge/-💻-6366F1?style=for-the-badge"/>
+**Development**
 
-### FULL-STACK
-
-Building complete web applications from UI to API and database.
+Full-stack web apps, from UI through API to database — built for maintainability, not just for launch.
 
 </td>
+<td width="25%" valign="top">
 
-<td width="33%" align="center">
+**SaaS Architecture**
 
-<img src="https://img.shields.io/badge/-🚀-EC4899?style=for-the-badge"/>
-
-### SAAS & CRM
-
-Creating scalable business platforms with multi-tenancy and subscriptions.
+Multi-tenancy, auth & authorization, subscription logic, data isolation across organizations.
 
 </td>
+<td width="25%" valign="top">
 
-<td width="33%" align="center">
+**SEO**
 
-<img src="https://img.shields.io/badge/-📈-F59E0B?style=for-the-badge"/>
+Technical + on-page optimization, keyword strategy, meta structure, performance tuning.
 
-### DIGITAL GROWTH
+</td>
+<td width="25%" valign="top">
 
-SEO, blogs, content and website optimization for online visibility.
+**Content & Growth**
+
+SEO-driven blog content, product copy, and a content strategy that supports discoverability.
 
 </td>
 </tr>
 </table>
 
-</div>
+<br>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
+## Currently building
 
-<table>
-<tr>
+**Multi-tenant CRM / SaaS platform** — a production-oriented business platform for multiple organizations and users.
 
-<td width="55%" valign="top">
+`FastAPI` `Next.js` `Supabase` `PostgreSQL` `Render`
 
-## 👩‍💻 ABOUT ME
-
-🎓 **Education**
-Bachelor's Degree in Information Technology
-*Information Systems Development* · ISET Mahdia, Tunisia
+| | |
+|---|---|
+| 🔐 **Authentication** | Secure access, authorization, user management |
+| 🏢 **Multi-tenancy** | Organizations, tenant isolation, subdomains |
+| 💳 **Subscriptions** | Plans, billing logic, SaaS architecture |
+| ⚡ **Backend** | REST APIs, database design, business logic |
 
 <br>
 
-💼 **Current Role**
-**Full-Stack Developer & Online Shop Administrator**
+## Featured projects
 
-<br>
+> Replace with your real repos, links, and descriptions.
 
-🚀 **Currently Building**
-A **multi-tenant CRM / SaaS platform** with subscriptions.
+**Multi-Tenant CRM / SaaS Platform**
+FastAPI + Next.js + Supabase business platform with multi-tenancy, auth, and subscription billing.
+[Repo](#) · [Live demo](#)
 
-<br>
-
-🌱 **Currently Improving**
-SaaS Architecture · Cloud Deployment · APIs · Multi-Tenancy
-
-<br>
-
-📍 **Background**
-🇹🇳 Tunisia · 🇧🇦 Working in Bosnia & Herzegovina
-
-</td>
-
-<td width="45%" valign="top">
-
-## 💎 MY EXPERTISE
-
-| Area | Focus |
-| :--- | :--- |
-| 💻 **Development** | Full-Stack Web |
-| 🏢 **SaaS** | CRM & Multi-Tenancy |
-| 🔐 **Backend** | APIs & Authentication |
-| 🗄️ **Data** | PostgreSQL & Supabase |
-| 📈 **SEO** | On-Page & Technical SEO |
-| ✍️ **Content** | SEO Blog Writing |
-| 🛒 **E-Commerce** | Shop Management |
-| ☁️ **Cloud** | Deployment & Hosting |
-
-</td>
-
-</tr>
-</table>
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
-
-<div align="center">
-
-# 🛠️ TECHNOLOGY STACK
-
-### FRONTEND
-<img src="https://skillicons.dev/icons?i=nextjs,react,angular,vue,bootstrap"/>
-
-<br><br>
-
-### BACKEND
-<img src="https://skillicons.dev/icons?i=python,fastapi,spring,nodejs,express,dotnet"/>
-
-<br><br>
-
-### LANGUAGES
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,cs"/>
-
-<br><br>
-
-### DATABASE · CLOUD
-<img src="https://skillicons.dev/icons?i=postgresql,supabase,mysql,mongodb,firebase,render"/>
-
-<br><br>
-
-### TOOLS
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode"/>
-
-</div>
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
-
-<div align="center">
-
-# 🏢 CURRENTLY BUILDING
-
-### ✦ MULTI-TENANT CRM / SAAS PLATFORM ✦
-
-<p><b>A production-oriented business platform designed for multiple organizations and users.</b></p>
-
-<br>
-
-<img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/SUPABASE-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/RENDER-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
-
-</div>
-
-<br>
-
-<table align="center">
-<tr>
-
-<td align="center" width="25%">
-<h2>🔐</h2>
-<b>AUTHENTICATION</b><br><br>
-Secure user access<br>Authorization<br>User management
-</td>
-
-<td align="center" width="25%">
-<h2>🏢</h2>
-<b>MULTI-TENANCY</b><br><br>
-Organizations<br>Tenant isolation<br>Subdomains
-</td>
-
-<td align="center" width="25%">
-<h2>💳</h2>
-<b>SUBSCRIPTIONS</b><br><br>
-Plans<br>Subscription logic<br>SaaS architecture
-</td>
-
-<td align="center" width="25%">
-<h2>⚡</h2>
-<b>BACKEND</b><br><br>
-REST APIs<br>Database<br>Business logic
-</td>
-
-</tr>
-</table>
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
-
-<div align="center">
-
-# 📌 FEATURED PROJECTS
-
-<p><i>Replace these placeholders with your real repos, links, and tech badges.</i></p>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🏢 Multi-Tenant CRM / SaaS Platform
-FastAPI + Next.js + Supabase business platform with multi-tenancy, authentication, and subscription billing.
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-
-<a href="#"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🛒 Project Two
+**Project Two**
 Short description of what it does and the problem it solves.
-
-<img src="https://img.shields.io/badge/Tech-6366F1?style=flat-square"/>
-<img src="https://img.shields.io/badge/Stack-EC4899?style=flat-square"/>
-
-<a href="#"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
-
-<div align="center">
-
-# 📈 DIGITAL MARKETING & E-COMMERCE
-
-<p><b>Technology builds the product. Marketing helps people discover it.</b></p>
-
-<table>
-<tr>
-
-<td width="33%" align="center">
-<img src="https://img.shields.io/badge/-🔎-10B981?style=for-the-badge"/>
-<br><b>SEO</b><br>
-On-page & technical SEO, keyword optimization, meta titles, site performance
-</td>
-
-<td width="33%" align="center">
-<img src="https://img.shields.io/badge/-✍️-F59E0B?style=for-the-badge"/>
-<br><b>CONTENT</b><br>
-SEO blog articles, product content, content strategy & planning
-</td>
-
-<td width="33%" align="center">
-<img src="https://img.shields.io/badge/-🛍️-EC4899?style=for-the-badge"/>
-<br><b>SHOP MANAGEMENT</b><br>
-Daily online store operations, product content, growth optimization
-</td>
-
-</tr>
-</table>
-
-</div>
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
-
-<div align="center">
-
-# 🧠 HOW I WORK
-
-<table>
-<tr>
-
-<td align="center" width="25%">
-<h1>01</h1>
-
-### 💡 DISCOVER
-Understand the business & users.
-</td>
-
-<td align="center" width="25%">
-<h1>02</h1>
-
-### 🏗️ BUILD
-Design & develop the solution.
-</td>
-
-<td align="center" width="25%">
-<h1>03</h1>
-
-### 🚀 DEPLOY
-Test, optimize & launch.
-</td>
-
-<td align="center" width="25%">
-<h1>04</h1>
-
-### 📈 GROW
-SEO, content & optimization.
-</td>
-
-</tr>
-</table>
-
-</div>
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
-
-<div align="center">
-
-# 📊 GITHUB STATS
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&hide_border=true&theme=radical"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&hide_border=true&theme=radical"/>
+[Repo](#) · [Live demo](#)
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&hide_border=true&theme=radical"/>
+## How I work
 
-<p><i>Replace <code>YOUR-GITHUB-USERNAME</code> with your GitHub handle for these to render.</i></p>
+`01` **Discover** — understand the business and its users
+`02` **Build** — design and develop the solution
+`03` **Deploy** — test, optimize, and launch
+`04` **Grow** — SEO, content, and ongoing optimization
 
+<br>
+
+## GitHub stats
+
+<div align="center">
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=8B5CF6&icon_color=8B5CF6&text_color=A1A1AA"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=8B5CF6&text_color=A1A1AA"/>
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
+<sub>Replace `YOUR-GITHUB-USERNAME` for these to render.</sub>
+
+<br>
+
+---
 
 <div align="center">
 
-# ✦ DEVELOPMENT PHILOSOPHY ✦
+### *"Build it well. Make it useful. Help it grow."*
+
+Clean code + good design + business value + visibility.
 
 <br>
 
-> ### **"Build it well. Make it useful. Help it grow."**
-
-<br>
-
-I believe great digital products combine
-**clean code + good design + business value + visibility.**
-
-</div>
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
-
-<div align="center">
-
-# 🌸 LET'S CONNECT
-
-### Development · SaaS · SEO · Digital Marketing · E-Commerce
-
-<br>
-
-<a href="https://www.linkedin.com/in/ikram-ayoub-370299228/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:ayoubikram564@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/in/ikram-ayoub-370299228/"><img src="https://img.shields.io/badge/LinkedIn-141414?style=flat-square&logo=linkedin&logoColor=8B5CF6"/></a>
+<a href="mailto:ayoubikram564@gmail.com"><img src="https://img.shields.io/badge/Email-141414?style=flat-square&logo=gmail&logoColor=8B5CF6"/></a>
 
 <br><br>
 
-<sub>✨ Thanks for visiting my profile ✨</sub>
-
-<br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,27&height=150&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16161F,50:1A1A2E,100:0F0F17&height=120&section=footer"/>
 
 </div>
