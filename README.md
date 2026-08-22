@@ -1,16 +1,8 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- HERO -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=IKRAM%20AYOUB&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20SAAS%20%E2%80%A2%20SEO%20%26%20DIGITAL%20MARKETING&descAlignY=62&descSize=15&descColor=FDF6F0&color=0:171315,40:5B424A,70:8E6670,88:D4AF37,100:F7CAC9"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=IKRAM%20AYOUB&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20SAAS%20%E2%80%A2%20SEO%20%E2%80%A2%20DIGITAL%20MARKETING&descAlignY=62&descSize=15&descColor=FDF6F0&color=0:171315,40:5B424A,70:8E6670,88:D4AF37,100:F7CAC9"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=20&duration=2800&pause=800&color=D4AF37&center=true&vCenter=true&width=750&lines=Building+modern+web+applications;Creating+SaaS+%26+CRM+platforms;Developing+secure+REST+APIs;Working+with+Multi-Tenant+Architecture;Growing+websites+with+SEO+%26+Content"/>
-
-<br>
-
-<img src="https://camo.githubusercontent.com/38e41dfabdad680dbd9fa6b375e7e52f1a52a84d0b06918b23bef033689d3d6d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c384b36326954446b7a4758362f67697068792e676966" width="400"/>
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=20&duration=2800&pause=800&color=D4AF37&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;SaaS+%26+CRM+Builder;API+%26+Multi-Tenant+Architecture;SEO+%26+Content+Creator"/>
 
 <br>
 
@@ -28,109 +20,71 @@
 
 ---
 
+<div align="center">
+
+<img src="https://camo.githubusercontent.com/38e41dfabdad680dbd9fa6b375e7e52f1a52a84d0b06918b23bef033689d3d6d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c384b36326954446b7a4758362f67697068792e676966" width="380"/>
+
+</div>
+
 ## 👩‍💻 About Me
 
-<div align="center">
+I'm a **Full-Stack Developer & Online Shop Administrator** with a Bachelor's degree in Information Technology, specialized in Information Systems Development.
 
-### Full-Stack Developer & Online Shop Administrator
+I build **web applications and SaaS platforms**, while also working on the digital side of businesses through **SEO, blog creation, content and e-commerce management**.
 
-</div>
+Currently, I'm developing a **multi-tenant CRM platform with subscriptions** using FastAPI, Next.js, Supabase, PostgreSQL and Render.
 
-I build **modern, scalable web applications and SaaS platforms**, working across frontend, backend, databases, APIs and deployment.
+---
 
-I'm currently working on a **multi-tenant CRM / SaaS platform with subscriptions**, using:
-
-`FastAPI` · `Next.js` · `Supabase` · `PostgreSQL` · `Render`
-
-Alongside software development, I work on the **digital growth side of websites**:
-
-`SEO` · `Blog Creation` · `Content Writing` · `Digital Marketing` · `E-Commerce` · `Website Management`
+## ✦ Core Expertise
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="380"/>
+### SOFTWARE
+
+`Full-Stack Development` · `REST APIs` · `Authentication`  
+`SaaS` · `CRM` · `Multi-Tenancy` · `Database Architecture`
+
+### DIGITAL
+
+`SEO` · `SEO Blog Writing` · `Content Creation`  
+`Digital Marketing` · `E-Commerce` · `Website Management`
 
 </div>
 
 ---
 
-## ✦ What I Do
+## ⚡ Technology
 
 <div align="center">
 
-### 💻 Software Development
-
-Building responsive and scalable applications.
-
-`Next.js` `React` `Angular` `Vue.js`
-
-`FastAPI` `Spring Boot` `Node.js` `Express.js` `.NET`
+<img src="https://skillicons.dev/icons?i=nextjs,react,angular,vue,fastapi,spring,nodejs,express,dotnet&theme=dark"/>
 
 <br>
 
-### 🏢 SaaS & CRM
-
-Building business platforms with:
-
-**Multi-Tenancy · Authentication · Subscriptions · Organizations · REST APIs · Data Isolation**
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,cs,postgresql,supabase,mysql,mongodb&theme=dark"/>
 
 <br>
 
-### 📈 SEO & Digital Marketing
-
-Helping websites become more visible and valuable online.
-
-**On-Page SEO · Keyword Optimization · Product SEO · Technical SEO · Content Strategy**
-
-<br>
-
-### ✍️ Content Creation
-
-Creating content designed for both **users and search engines**.
-
-**SEO Blog Articles · Website Content · Product Descriptions · Blog Management · Content Optimization**
+<img src="https://skillicons.dev/icons?i=firebase,render,git,github,postman,vscode&theme=dark"/>
 
 </div>
 
 ---
 
-## ⚡ Technology Stack
+## 🚀 Current Work
 
 <div align="center">
 
-### Frontend
+<img src="https://camo.githubusercontent.com/c15edf4081abd639a73dc18c9d14c882ee774adaabc085e7b5cc0b2d45d90e38/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6d4e77724268656a6b4b394546503530342f67697068792e676966" width="320"/>
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,angular,vue,bootstrap&theme=dark"/>
+### Multi-Tenant CRM / SaaS
 
-### Backend
+A business platform built around:
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,spring,nodejs,express,dotnet&theme=dark"/>
+**Organizations · Users · Tenant Isolation · Subdomains · Subscriptions**
 
-### Programming Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,cs&theme=dark"/>
-
-### Database & Cloud
-
-<img src="https://skillicons.dev/icons?i=postgresql,supabase,mysql,mongodb,firebase,render&theme=dark"/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark"/>
-
-</div>
-
----
-
-## 🚀 Current Project
-
-<div align="center">
-
-<img src="https://camo.githubusercontent.com/c15edf4081abd639a73dc18c9d14c882ee774adaabc085e7b5cc0b2d45d90e38/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6d4e77724268656a6b4b394546503530342f67697068792e676966" width="350"/>
-
-### Multi-Tenant CRM / SaaS Platform
-
-Building a complete business platform from **architecture to deployment**.
+**Authentication · REST APIs · PostgreSQL · Cloud Deployment**
 
 <br>
 
@@ -140,95 +94,17 @@ Building a complete business platform from **architecture to deployment**.
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=171315"/>
 
-<br><br>
-
-🔐 Authentication  
-🏢 Multi-Tenancy  
-🌐 Subdomains  
-💳 Subscriptions  
-
-👥 Organizations  
-⚡ REST APIs  
-🔒 Data Isolation  
-☁️ Deployment
-
 </div>
 
 ---
 
-## 📈 Code × Digital Growth
+## 🐍 GitHub
 
 <div align="center">
 
-<img src="https://camo.githubusercontent.com/31ddbfcef3f51d3149d4877a4dbc6791459b69b4475848f70fd87db1a305d0e2/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f716a715563674979526a736c322f67697068792e676966" width="350"/>
-
-### BUILD → OPTIMIZE → GROW
+<img src="https://raw.githubusercontent.com/iscpatricio92/iscpatricio92/main/resources/img/github-contribution-grid-snake.svg" width="85%"/>
 
 <br>
-
-💻 **BUILD**
-
-Web Applications · APIs · SaaS · CRM
-
-↓
-
-🔎 **OPTIMIZE**
-
-SEO · Performance · UX · Content
-
-↓
-
-📈 **GROW**
-
-Digital Marketing · Blogs · E-Commerce · Search Visibility
-
-</div>
-
----
-
-## 🛒 E-Commerce & Website Management
-
-<div align="center">
-
-🛍️ **Online Shop Management**
-
-&nbsp; • &nbsp;
-
-🔎 **SEO Optimization**
-
-&nbsp; • &nbsp;
-
-✍️ **SEO Blog Creation**
-
-&nbsp; • &nbsp;
-
-📦 **Product Content**
-
-&nbsp; • &nbsp;
-
-📊 **Website Administration**
-
-&nbsp; • &nbsp;
-
-🚀 **Website Optimization**
-
-</div>
-
----
-
-## 🐍 GitHub Contributions
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/iscpatricio92/iscpatricio92/main/resources/img/github-contribution-grid-snake.svg" width="90%"/>
-
-</div>
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ikram123321&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=D4AF37&icon_color=F7CAC9&text_color=FDF6F0&bg_color=171315"/>
 
@@ -246,11 +122,9 @@ Digital Marketing · Blogs · E-Commerce · Search Visibility
 
 <div align="center">
 
-### Bachelor's Degree in Information Technology
+**Bachelor's Degree in Information Technology**
 
-**Information Systems Development**
-
-ISET Mahdia · Tunisia
+Information Systems Development · **ISET Mahdia, Tunisia**
 
 </div>
 
@@ -258,24 +132,24 @@ ISET Mahdia · Tunisia
 
 <div align="center">
 
-<img src="https://camo.githubusercontent.com/31ddbfcef3f51d3149d4877a4dbc6791459b69b4475848f70fd87db1a305d0e2/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f716a715563674979526a736c322f67697068792e676966" width="300"/>
+<img src="https://camo.githubusercontent.com/31ddbfcef3f51d3149d4877a4dbc6791459b69b4475848f70fd87db1a305d0e2/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f716a715563674979526a736c322f67697068792e676966" width="280"/>
 
-## ✦ BUILD · OPTIMIZE · GROW ✦
+### Let's build something meaningful.
 
-**Software Engineering · SaaS · SEO · Digital Marketing**
+**Development · SaaS · SEO · Digital Growth**
 
 <br>
 
 <a href="https://www.linkedin.com/in/ikram-ayoub-370299228/">
-<img src="https://img.shields.io/badge/LET'S_CONNECT-D4AF37?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-D4AF37?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:ayoubikram564@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT_ME-171315?style=for-the-badge&logo=gmail&logoColor=F7CAC9"/>
+<img src="https://img.shields.io/badge/EMAIL-171315?style=for-the-badge&logo=gmail&logoColor=F7CAC9"/>
 </a>
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:171315,40:5B424A,70:8E6670,88:D4AF37,100:F7CAC9"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:171315,40:5B424A,70:8E6670,88:D4AF37,100:F7CAC9"/>
 
 </div>
