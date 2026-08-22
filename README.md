@@ -1,10 +1,10 @@
 <!-- ========================================================= -->
-<!--                        HERO                                -->
+<!-- HERO -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=IKRAM%20AYOUB&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20SAAS%20BUILDER%20%E2%80%A2%20SEO%20%26%20DIGITAL%20MARKETING&descAlignY=62&descSize=17&descColor=FDF6F0&color=0:171315,35:3A2A30,65:8E6670,85:D4AF37,100:F7CAC9"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=IKRAM%20AYOUB&fontSize=62&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20SAAS%20BUILDER%20%7C%20SEO%20%26%20DIGITAL%20MARKETING&descAlignY=62&descSize=16&descColor=FDF6F0&color=0:171315,30:3A2A30,60:8E6670,82:D4AF37,100:F7CAC9"/>
 
 <br>
 
@@ -30,9 +30,12 @@
 
 </div>
 
+<br>
+
+---
 
 <!-- ========================================================= -->
-<!--                     INTRODUCTION                           -->
+<!-- INTRO -->
 <!-- ========================================================= -->
 
 <div align="center">
@@ -41,148 +44,121 @@
 
 ### Full-Stack Developer · SaaS Builder · SEO & Digital Marketing
 
+<br>
+
+<p align="center">
+I build <b>modern digital products</b>, develop <b>scalable web applications</b>,
+and help businesses improve their <b>online presence and visibility</b>.
+</p>
+
+<p align="center">
+My work combines <b>software engineering</b>,
+<b>SaaS architecture</b>, <b>SEO</b>,
+<b>content creation</b> and <b>e-commerce</b>.
+</p>
+
 </div>
 
-<table>
-<tr>
+<br>
 
-<td width="60%" valign="top">
-
-### 👩‍💻 About Me
-
-I'm a **Full-Stack Developer** focused on building modern, scalable and business-oriented digital products.
-
-Currently working on a **multi-tenant CRM / SaaS platform with subscriptions**, using modern technologies across frontend, backend, database and cloud deployment.
-
-I also work on the **digital growth side of websites**, including:
-
-- 🔎 SEO optimization
-- ✍️ SEO blog writing & content creation
-- 🛒 Online shop management
-- 📈 Digital marketing
-- 🌐 Website administration
-- 🚀 Website optimization
-
-My goal is to combine **technology + business + digital growth**.
-
-</td>
-
-<td width="40%" valign="top">
-
-### 💎 At a Glance
-
-| | |
-|---|---|
-| 💻 Role | Full-Stack Developer |
-| 🏢 Focus | SaaS & CRM |
-| 🔐 Specialty | APIs & Authentication |
-| 🏗️ Architecture | Multi-Tenant |
-| 🗄️ Database | PostgreSQL / Supabase |
-| 📈 Marketing | SEO & Content |
-| 🛒 E-Commerce | Shop Administration |
-| 🎓 Education | Information Technology |
-
-</td>
-
-</tr>
-</table>
-
+---
 
 <!-- ========================================================= -->
-<!--                       WHAT I DO                            -->
+<!-- CURRENT ROLE -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-# ✦ WHAT I DO ✦
-
-<table>
-<tr>
-
-<td width="25%" align="center">
-
-## 💻
-
-### DEVELOPMENT
-
-Modern web applications
+# 🚀 WHAT I'M DOING NOW
 
 <br>
 
-Next.js  
-React  
-Angular  
-FastAPI  
-Spring Boot  
-Node.js
-
-</td>
-
-<td width="25%" align="center">
-
-## 🏢
-
-### SAAS
-
-Business platforms
+### 💻 Full-Stack Developer & Online Shop Administrator
 
 <br>
 
-CRM  
-Multi-Tenancy  
-Subscriptions  
-Organizations  
-Authentication  
-REST APIs
+**Building**
 
-</td>
-
-<td width="25%" align="center">
-
-## 📈
-
-### SEO
-
-Digital visibility
+`Multi-Tenant CRM / SaaS Platform`
 
 <br>
 
-On-Page SEO  
-Keywords  
-Technical SEO  
-Product SEO  
-Optimization  
-Search Visibility
+**Working with**
 
-</td>
+<img src="https://skillicons.dev/icons?i=fastapi,nextjs,supabase,postgresql,render&theme=dark"/>
 
-<td width="25%" align="center">
+<br><br>
 
-## ✍️
+**Also working on**
 
-### CONTENT
-
-Content that converts
-
-<br>
-
-SEO Blogs  
-Website Content  
-Product Content  
-Content Strategy  
-Blog Management  
-Digital Marketing
-
-</td>
-
-</tr>
-</table>
+`SEO` · `Blog Creation` · `Content Strategy` · `Digital Marketing` · `E-Commerce`
 
 </div>
 
+<br>
+
+---
 
 <!-- ========================================================= -->
-<!--                    TECHNOLOGY                              -->
+<!-- SPECIALTIES -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+# 💎 MY SPECIALTIES
+
+<br>
+
+### 💻 FULL-STACK DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,angular,vue,fastapi,spring,nodejs,express&theme=dark"/>
+
+<br>
+
+Building responsive, scalable and maintainable web applications.
+
+<br><br>
+
+### 🏢 SAAS & CRM
+
+🔐 Authentication  
+🏢 Multi-Tenancy  
+🌐 Subdomains  
+💳 Subscriptions  
+👥 Organizations  
+⚡ REST APIs  
+🗄️ Database Architecture
+
+<br><br>
+
+### 📈 SEO & DIGITAL GROWTH
+
+🔎 On-Page SEO  
+🎯 Keyword Optimization  
+📊 Search Visibility  
+⚡ Website Optimization  
+🛒 Product SEO  
+📱 Digital Marketing
+
+<br><br>
+
+### ✍️ CONTENT CREATION
+
+📝 SEO Blog Articles  
+📄 Website Content  
+🛍️ Product Descriptions  
+📚 Content Strategy  
+🔎 Search-Optimized Content  
+📢 Digital Marketing Content
+
+</div>
+
+<br>
+
+---
+
+<!-- ========================================================= -->
+<!-- TECH STACK -->
 <!-- ========================================================= -->
 
 <div align="center">
@@ -209,7 +185,7 @@ Digital Marketing
 
 <br><br>
 
-### DATABASE • CLOUD
+### DATABASE & CLOUD
 
 <img src="https://skillicons.dev/icons?i=postgresql,supabase,mysql,mongodb,firebase,render&theme=dark"/>
 
@@ -221,353 +197,210 @@ Digital Marketing
 
 </div>
 
+<br>
+
+---
 
 <!-- ========================================================= -->
-<!--                   CURRENT PROJECT                          -->
+<!-- CURRENT PROJECT -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-# 🚀 CURRENTLY BUILDING
-
-## Multi-Tenant CRM / SaaS Platform
-
-<p>
-<b>From architecture to deployment — building a complete business platform.</b>
-</p>
+# 🏢 CURRENT PROJECT
 
 <br>
 
-<img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/SUPABASE-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/RENDER-46E3B7?style=for-the-badge&logo=render&logoColor=171315"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=120&text=MULTI-TENANT%20CRM%20%2F%20SAAS&fontSize=32&fontColor=FFFFFF&color=171315"/>
 
 <br><br>
 
-<table>
-<tr>
+### Building a complete business platform
 
-<td align="center">
-<h2>🔐</h2>
-<b>AUTHENTICATION</b>
 <br>
-Secure access
-</td>
 
-<td align="center">
-<h2>🏢</h2>
-<b>MULTI-TENANCY</b>
-<br>
-Tenant isolation
-</td>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=171315"/>
 
-<td align="center">
-<h2>🌐</h2>
-<b>SUBDOMAINS</b>
-<br>
-Tenant routing
-</td>
+<br><br>
 
-<td align="center">
-<h2>💳</h2>
-<b>SUBSCRIPTIONS</b>
-<br>
-SaaS plans
-</td>
+`Authentication` · `Multi-Tenancy` · `Subdomains`
 
-<td align="center">
-<h2>👥</h2>
-<b>ORGANIZATIONS</b>
-<br>
-Team management
-</td>
+`Organizations` · `Subscriptions` · `REST APIs`
 
-<td align="center">
-<h2>⚡</h2>
-<b>REST APIs</b>
-<br>
-Business logic
-</td>
-
-</tr>
-</table>
+`Database Isolation` · `Cloud Deployment`
 
 </div>
 
+<br>
+
+---
 
 <!-- ========================================================= -->
-<!--                  CODE × MARKETING                          -->
+<!-- CODE + MARKETING -->
 <!-- ========================================================= -->
 
 <div align="center">
 
 # 📈 CODE × MARKETING
 
-### I don't only build websites — I help them get discovered.
+<br>
+
+### I don't only build websites.
+
+### I help them get discovered.
 
 <br>
 
-<table>
-<tr>
+**BUILD**
 
-<td width="50%" align="center">
+💻 Web Application  
+⬇️  
+**OPTIMIZE**
 
-## 🔎 SEO
+🔎 SEO · ⚡ Performance · 📝 Content  
+⬇️  
+**GROW**
 
-**On-Page SEO**
+📈 Visibility · 🛒 Sales · 🚀 Business
 
-**Keyword Optimization**
+<br><br>
 
-**Meta Titles & Descriptions**
-
-**Technical SEO**
-
-**Product SEO**
-
-**Website Performance**
-
-**Search Visibility**
-
-</td>
-
-<td width="50%" align="center">
-
-## ✍️ CONTENT & MARKETING
-
-**SEO Blog Articles**
-
-**Website Content**
-
-**Product Descriptions**
-
-**Content Planning**
-
-**Blog Management**
-
-**Digital Marketing**
-
-**Content Optimization**
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<img src="https://img.shields.io/badge/BUILD-171315?style=for-the-badge"/>
-&nbsp;
-➜
-&nbsp;
-<img src="https://img.shields.io/badge/OPTIMIZE-8E6670?style=for-the-badge"/>
-&nbsp;
-➜
-&nbsp;
-<img src="https://img.shields.io/badge/GROW-D4AF37?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SEO-D4AF37?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CONTENT-8E6670?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MARKETING-3A2A30?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GROWTH-F7CAC9?style=for-the-badge&logoColor=171315"/>
 
 </div>
 
+<br>
+
+---
 
 <!-- ========================================================= -->
-<!--                  E-COMMERCE                                -->
+<!-- ECOMMERCE -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-# 🛒 E-COMMERCE & WEBSITE MANAGEMENT
+# 🛒 E-COMMERCE
 
-<table>
-<tr>
+<br>
 
-<td align="center" width="20%">
-<h2>🛍️</h2>
-<b>ONLINE SHOP</b>
-<br><br>
-Daily administration
-</td>
+### Managing websites from both the technical and marketing side.
 
-<td align="center" width="20%">
-<h2>🔎</h2>
-<b>SEO</b>
-<br><br>
-Search optimization
-</td>
+<br>
 
-<td align="center" width="20%">
-<h2>✍️</h2>
-<b>BLOG</b>
-<br><br>
-SEO content
-</td>
+🛍️ **Online Shop Management**
 
-<td align="center" width="20%">
-<h2>📊</h2>
-<b>WEBSITE</b>
-<br><br>
-Content management
-</td>
+🔎 **SEO Optimization**
 
-<td align="center" width="20%">
-<h2>🚀</h2>
-<b>GROWTH</b>
-<br><br>
-Optimization
-</td>
+✍️ **Blog & Content Creation**
 
-</tr>
-</table>
+📦 **Product Content**
+
+📊 **Website Administration**
+
+🚀 **Continuous Optimization**
 
 </div>
 
+<br>
+
+---
 
 <!-- ========================================================= -->
-<!--                  GITHUB ANALYTICS                          -->
+<!-- GITHUB -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-# 📊 GITHUB ANALYTICS
+# 📊 GITHUB ACTIVITY
 
 <br>
-
-<table>
-<tr>
-
-<td width="50%" align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ikram123321&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=D4AF37&icon_color=F7CAC9&text_color=FDF6F0&bg_color=171315"/>
 
-</td>
+<br><br>
 
-<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikram123321&layout=compact&hide_border=true&langs_count=8&title_color=D4AF37&text_color=FDF6F0&bg_color=171315"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikram123321&layout=donut&hide_border=true&langs_count=8&title_color=D4AF37&text_color=FDF6F0&bg_color=171315"/>
-
-</td>
-
-</tr>
-</table>
-
-<br>
+<br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikram123321&hide_border=true&background=171315&ring=D4AF37&fire=F7CAC9&currStreakLabel=F7CAC9&sideLabels=FDF6F0&dates=FDF6F0"/>
 
 </div>
 
+<br>
+
+---
 
 <!-- ========================================================= -->
-<!--                       TROPHIES                             -->
-<!-- ========================================================= -->
-
-<div align="center">
-
-# 🏆 ACHIEVEMENTS
-
-<img src="https://github-profile-trophy.vercel.app/?username=ikram123321&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=8&row=1"/>
-
-</div>
-
-
-<!-- ========================================================= -->
-<!--                  ACTIVITY GRAPH                            -->
+<!-- CONTRIBUTIONS -->
 <!-- ========================================================= -->
 
 <div align="center">
 
 # 📈 CONTRIBUTION ACTIVITY
 
+<br>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ikram123321&bg_color=171315&color=FDF6F0&line=D4AF37&point=F7CAC9&area=true&hide_border=true"/>
 
 </div>
 
+<br>
+
+---
 
 <!-- ========================================================= -->
-<!--                       SNAKE                                -->
-<!-- ========================================================= -->
-
-<div align="center">
-
-# 🐍 CONTRIBUTION SNAKE
-
-<img src="https://raw.githubusercontent.com/ikram123321/ikram123321/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-
-</div>
-
-
-<!-- ========================================================= -->
-<!--                   DEVELOPMENT APPROACH                     -->
+<!-- TROPHIES -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-# 🧠 HOW I BUILD
+# 🏆 ACHIEVEMENTS
 
-<table>
-<tr>
+<br>
 
-<td align="center" width="25%">
-
-<h1>01</h1>
-
-## 💡
-
-### DISCOVER
-
-Understand the business, users and requirements.
-
-</td>
-
-<td align="center" width="25%">
-
-<h1>02</h1>
-
-## 🏗️
-
-### BUILD
-
-Create clean and scalable solutions.
-
-</td>
-
-<td align="center" width="25%">
-
-<h1>03</h1>
-
-## 🚀
-
-### DEPLOY
-
-Deliver production-ready applications.
-
-</td>
-
-<td align="center" width="25%">
-
-<h1>04</h1>
-
-## 📈
-
-### GROW
-
-SEO, content, visibility and business value.
-
-</td>
-
-</tr>
-</table>
+<img src="https://github-profile-trophy.vercel.app/?username=ikram123321&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=10&row=1"/>
 
 </div>
 
+<br>
+
+---
 
 <!-- ========================================================= -->
-<!--                      EDUCATION                             -->
+<!-- SNAKE -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+# 🐍 CONTRIBUTIONS
+
+<br>
+
+<img src="https://raw.githubusercontent.com/ikram123321/ikram123321/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+<br>
+
+---
+
+<!-- ========================================================= -->
+<!-- EDUCATION -->
 <!-- ========================================================= -->
 
 <div align="center">
 
 # 🎓 EDUCATION
+
+<br>
 
 ### Bachelor's Degree in Information Technology
 
@@ -577,9 +410,12 @@ ISET Mahdia · Tunisia
 
 </div>
 
+<br>
+
+---
 
 <!-- ========================================================= -->
-<!--                   PHILOSOPHY                              -->
+<!-- PHILOSOPHY -->
 <!-- ========================================================= -->
 
 <div align="center">
@@ -588,43 +424,48 @@ ISET Mahdia · Tunisia
 
 <br>
 
-### Build it well. Make it useful. Help it grow.
+### Build it well.
+### Make it useful.
+### Help it grow.
 
 <br>
 
-<img src="https://img.shields.io/badge/CLEAN%20CODE-171315?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GOOD%20UX-3A2A30?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SCALABLE%20ARCHITECTURE-8E6670?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BUSINESS%20VALUE-D4AF37?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DIGITAL%20GROWTH-F7CAC9?style=for-the-badge"/>
+`CLEAN CODE`
+&nbsp; ✦ &nbsp;
+`GOOD UX`
+&nbsp; ✦ &nbsp;
+`SCALABLE ARCHITECTURE`
+&nbsp; ✦ &nbsp;
+`BUSINESS VALUE`
+&nbsp; ✦ &nbsp;
+`DIGITAL GROWTH`
 
 </div>
 
+<br>
+
+---
 
 <!-- ========================================================= -->
-<!--                      CONTACT                              -->
+<!-- CONTACT -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:171315,30:3A2A30,60:8E6670,82:D4AF37,100:F7CAC9"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:171315,35:3A2A30,65:8E6670,85:D4AF37,100:F7CAC9"/>
+# 🌸 LET'S BUILD SOMETHING GREAT
 
-<h1>🌸 LET'S BUILD SOMETHING GREAT</h1>
-
-<p>
-<b>Full-Stack Development · SaaS · SEO · Digital Marketing · E-Commerce</b>
-</p>
+### Full-Stack Development · SaaS · SEO · Digital Marketing
 
 <br>
 
 <a href="https://www.linkedin.com/in/ikram-ayoub-370299228/">
-<img src="https://img.shields.io/badge/LET'S%20CONNECT-2B2528?style=for-the-badge&logo=linkedin&logoColor=F7CAC9"/>
+<img src="https://img.shields.io/badge/LINKEDIN-2B2528?style=for-the-badge&logo=linkedin&logoColor=F7CAC9"/>
 </a>
 
 <a href="mailto:ayoubikram564@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT%20ME-D4AF37?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-D4AF37?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
